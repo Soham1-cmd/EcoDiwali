@@ -86,3 +86,7 @@ and protecting the environment.
 
 ```bash
 index.html
+```
+4. You can also view the live hosted version here:
+   
+   🔗 **https://eco-friendly-diwali.netlify.app/**
